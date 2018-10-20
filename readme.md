@@ -7,10 +7,10 @@ There is one workflow that extract shipment data according to the tasks.
 At the end of the run the result dataframe will be printed to console.
 
 # Columns
-full_path - The full path of the shipment split by comma.
-total_duration - The total duration of each shipment.
-avg_duration_to_israel - The average duration from each country to israel.
-avg_duration_from_israel - The average duration from israel to any country.
+full_path - The full path of the shipment split by comma. <br/> 
+total_duration - The total duration of each shipment. <br/>
+avg_duration_to_israel - The average duration from each country to israel. <br/>
+avg_duration_from_israel - The average duration from israel to any country. <br/>
 
 # Notice - 
 I used local spark to run the code.
