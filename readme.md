@@ -11,7 +11,7 @@ I used local spark to run the code.
 
 # Results - 
 The initial data is random so here the last run data frame -
-
+<pre>
 +-----+-----+------+---------+------+---------+------+---------+------+---------+------+---------+-------------------+-------+
 |index|name |dest1 |duretion1|dest2 |duretion2|dest3 |duretion3|dest4 |duretion4|dest5 |duretion5|tx_date            |balance|
 +-----+-----+------+---------+------+---------+------+---------+------+---------+------+---------+-------------------+-------+
@@ -36,9 +36,11 @@ The initial data is random so here the last run data frame -
 |18   |David|SWEDEN|22       |SPAIN |20       |null  |48       |null  |45       |SPAIN |9        |2018-04-01 10:12:14|3.3    |
 |19   |Trump|SWEDEN|30       |null  |34       |ISRAEL|7        |SWEDEN|13       |null  |17       |2018-04-06 10:12:14|4.4    |
 +-----+-----+------+---------+------+---------+------+---------+------+---------+------+---------+-------------------+-------+
+</pre>
 
 And the results data frame (from the above data) is - 
 
+<pre>
 |index|name |tx_date            |balance|full_path                         |total_duration|avg_duration_to_israel|avg_duration_from_israel|
 +-----+-----+-------------------+-------+----------------------------------+--------------+----------------------+------------------------+
 |0    |Arika|2018-01-01 10:12:14|1.1    |ISRAEL,SPAIN,SWEDEN,ISRAEL        |80            |1                     |2                       |
@@ -62,3 +64,4 @@ And the results data frame (from the above data) is -
 |18   |David|2018-04-01 10:12:14|3.3    |SWEDEN,SPAIN,SPAIN                |144           |0                     |0                       |
 |19   |Trump|2018-04-06 10:12:14|4.4    |SWEDEN,ISRAEL,SWEDEN              |101           |1                     |1                       |
 +-----+-----+-------------------+-------+----------------------------------+--------------+----------------------+------------------------+
+</pre>
