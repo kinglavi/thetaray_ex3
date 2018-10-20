@@ -6,7 +6,7 @@ The code should run from the main file.
 There is one workflow that extract shipment data according to the tasks. <br/>
 At the end of the run the result dataframe will be printed to console.
 
-# Columns
+# Columns -
 full_path - The full path of the shipment split by comma. <br/> 
 total_duration - The total duration of each shipment. <br/>
 avg_duration_to_israel - The average duration from each country to israel. <br/>

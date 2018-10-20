@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="743a57fc-7791-49a0-a758-2e6db8d843d8" name="Default" comment="- fixed counter bug&#10;- updated readme">
+    <list default="true" id="743a57fc-7791-49a0-a758-2e6db8d843d8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
@@ -95,8 +95,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="170">
+                <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -318,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540065567910</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="- updated readme">
+      <created>1540065607250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540065607250</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -358,7 +365,8 @@
     <MESSAGE value="- added pre tag to readme file" />
     <MESSAGE value="- fixed counter bug&#10;- updated readme&#10;- added .idea to gitignore" />
     <MESSAGE value="- added new lines to readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="- added new lines to readme" />
+    <MESSAGE value="- updated readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="- updated readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -569,8 +577,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />
