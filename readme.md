@@ -1,6 +1,6 @@
 
 # Execute - 
-The code should run from the main file.
+Run the code from the main.py file.
 
 # Workflows -
 There is one workflow that extract shipment data according to the tasks. <br/>
